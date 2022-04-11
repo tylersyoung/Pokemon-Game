@@ -1,7 +1,7 @@
 Pokémon (Part 4)
 ================
 
-Now that we've simulated a basic battle, we'll focus on improving the "User Experience" (also known as "UX" in software engineering).
+Now that we've simulated a basic battle, we'll focus on improving the "User Experience".
 
 Assignment Requirements
 -----------------------
